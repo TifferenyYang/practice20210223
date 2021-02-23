@@ -19,7 +19,5 @@ public class Test {
   System.out.println("result = "+result);
 //ccccc
   //pppp
-	 //ccccc
-	 //pppp
  }
 }

@@ -12,7 +12,7 @@ public class Test {
    if (i % 2 == 0) {
     result = result + i;
    }
-
+dddddd
   }
   System.out.println("result = "+result);
  }
